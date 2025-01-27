@@ -15,5 +15,6 @@
 - Go to the study in the houses
 - The evidence points back to the shops.
 - The dust on the floor shows a clear path heading to the cafe.
+- Go to the kitchen in the school.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
