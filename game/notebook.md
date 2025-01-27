@@ -17,4 +17,5 @@
 - The dust on the floor shows a clear path heading to the cafe.
 - Go to the kitchen in the school.
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+The evidence is clear - this is where the crime took place! The room's undisturbed state tells the whole story.
+kitchen in the school
