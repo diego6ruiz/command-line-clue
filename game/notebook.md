@@ -18,6 +18,7 @@
 - Go to the kitchen in the school.
 
 - Found The Musician at: command-line-clue\game\town hall>
+- Found Walking Stick at: command-line-clue\game\park>
 
 The evidence is clear - this is where the crime took place! The room's undisturbed state tells the whole story.
 kitchen in the school
