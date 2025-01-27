@@ -11,6 +11,6 @@
 - [ ] Leather Gloves
 
 ## Notes
-*Use this space to record your findings and deductions...*
+- A note from The Doctor mentions witnessing something concerning near the cellar.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
