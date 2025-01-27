@@ -8,11 +8,12 @@
 ## Weapons
 - [ ] Heavy Book
 - [ ] Silver Watch
-- [ ] Leather Gloves
+- [X] Leather Gloves
 
 ## Notes
 - A note from The Doctor mentions witnessing something concerning near the cellar.
 - Go to the study in the houses
 - The evidence points back to the shops.
+- The dust on the floor shows a clear path heading to the cafe.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
