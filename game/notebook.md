@@ -22,3 +22,5 @@
 
 The evidence is clear - this is where the crime took place! The room's undisturbed state tells the whole story.
 kitchen in the school
+
+No hay mas objetos ni personas en todo el mundo .-.
